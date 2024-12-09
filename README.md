@@ -21,7 +21,6 @@ The signs of the input values are decided by two allotted pins as Sign_A and Sig
     4) 11 = Negative, Negative
 
 
-<img width="524" alt="Signed Calculator" src="https://user-images.githubusercontent.com/83294849/202861380-a2257a35-b577-44ad-933a-89ae514fdffe.png">
 
 <img width="467" alt="Sigend Adder" src="https://user-images.githubusercontent.com/83294849/202861395-d7c54b36-bde5-4af5-97b0-9028c6444097.png">
 
